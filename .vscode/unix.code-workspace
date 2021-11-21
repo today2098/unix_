@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"C_Cpp.clang_format_path": "/usr/bin/clang-format",
+		"C_Cpp.clang_format_style": "file",
+		"workbench.colorTheme": "Visual Studio Light - C++"
+	}
+}
