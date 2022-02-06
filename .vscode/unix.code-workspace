@@ -7,6 +7,12 @@
 	"settings": {
 		"C_Cpp.clang_format_path": "/usr/bin/clang-format",
 		"C_Cpp.clang_format_style": "file",
-		"workbench.colorTheme": "Visual Studio Light - C++"
+		"editor.tokenColorCustomizations": {
+			"numbers": "#FF0000"
+		},
+		"workbench.colorTheme": "Visual Studio Light - C++",
+		"files.associations": {
+			"cstdlib": "cpp"
+		}
 	}
 }
